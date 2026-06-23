@@ -164,7 +164,7 @@ aristotle/
 
 ## 👩‍💻 Built By
 
-Made with ❤️ for a hackathon by **Sara** and team.
+Made with ❤️ for a hackathon by **Krupa** and team.
 
 ---
 
