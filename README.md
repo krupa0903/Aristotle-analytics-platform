@@ -4,7 +4,7 @@
 
 A lightweight, privacy-first web analytics platform with real-time click heatmaps, live visitor mapping, and intelligent traffic insights — built for developers who care about performance and privacy.
 
-Deployment Link: https://aristotle-an-analytics-platform-hfsdguq6b-saraneks-projects.vercel.app
+🔗 **Live Demo:** [aristotle-an-analytics-platform-hfsdguq6b-saraneks-projects.vercel.app](https://aristotle-an-analytics-platform-hfsdguq6b-saraneks-projects.vercel.app)
 
 ---
 
@@ -25,7 +25,7 @@ Deployment Link: https://aristotle-an-analytics-platform-hfsdguq6b-saraneks-proj
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/aristotle.git
+git clone https://github.com/saranek/aristotle.git
 cd aristotle
 npm install
 ```
@@ -86,9 +86,9 @@ Add this to the `<head>` of any website you want to track:
 
 ```html
 <script 
-  src="https://your-aristotle-deployment.vercel.app/tracker.js" 
+  src="https://aristotle-an-analytics-platform-hfsdguq6b-saraneks-projects.vercel.app/tracker.js" 
   data-site="YOUR_SITE_ID" 
-  data-api="https://your-aristotle-deployment.vercel.app">
+  data-api="https://aristotle-an-analytics-platform-hfsdguq6b-saraneks-projects.vercel.app">
 </script>
 ```
 
@@ -164,7 +164,7 @@ aristotle/
 
 ## 👩‍💻 Built By
 
-Made with ❤️ for a hackathon by **Krupa** and team.
+Made with ❤️ for a hackathon by Krupa, Sara and Rukmini.
 
 ---
 
